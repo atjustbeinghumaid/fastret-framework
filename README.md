@@ -1,7 +1,7 @@
 # fastret-framework
 
 [![Build Status](https://travis-ci.com/arshadkazmi42/fastret-framework.svg?branch=master)](https://travis-ci.com/arshadkazmi42/fastret-framework)
-
+[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/fastret-framework.svg)](https://github.com/arshadkazmi42/fastret-framework)
 Fastest rest api test suite builder
 
 > Give us a :star: if you like our work :heart:
